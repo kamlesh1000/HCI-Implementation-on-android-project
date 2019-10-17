@@ -1,0 +1,347 @@
+<zuiprezi><version>10</version><zui-table><settings>
+									<autoplay>
+										<delay>4000</delay>
+									</autoplay>
+								<bounds x="-125925.76112950139" y="-87572.004282422" width="251851.52225900276" height="175144.00856484403"/><aspectratio>off</aspectratio><languages><language>en</language></languages><mode type="normal"/></settings><object id="74_259561073" type="text" x="-15465.459419828674" y="-14424.789584038546" r="0" s="0.6224414659161768" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[TESTING]]></text></p><layout><layout-element role="title"/></layout></object><object id="6" type="image" x="-15230.861132073049" y="-13756.985026979888" r="0" s="3.1297667760237746"><source w="4000" h="896">1851873385<url>1851873385.png</url></source><resource><id>1851873385</id><url>https://media.preziusercontent.com/media/6/9/2/4666f7276cc5b1dc930dedb69b1acc604acbf.png</url></resource><sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F6%2F9%2F2%2F4666f7276cc5b1dc930dedb69b1acc604acbf.png</sourceUrl><image><transform><flip/></transform></image><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="7" type="image" x="-11842.598168507606" y="-10813.379616045744" r="0" s="6.368096956116887"><source w="4000" h="896">1851873385<url>1851873385.png</url></source><resource><id>1851873385</id><url>https://media.preziusercontent.com/media/6/9/2/4666f7276cc5b1dc930dedb69b1acc604acbf.png</url></resource><sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F6%2F9%2F2%2F4666f7276cc5b1dc930dedb69b1acc604acbf.png</sourceUrl><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="4" type="image" x="-14278.167849787313" y="-4408.968668756837" r="0" s="15.348885221357413"><source w="4000" h="896">1851873385<url>1851873385.png</url></source><resource><id>1851873385</id><url>https://media.preziusercontent.com/media/6/9/2/4666f7276cc5b1dc930dedb69b1acc604acbf.png</url></resource><sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F6%2F9%2F2%2F4666f7276cc5b1dc930dedb69b1acc604acbf.png</sourceUrl><image><transform><flip/></transform></image><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="2" type="image" x="-9480.004848808694" y="6839.251702245894" r="0" s="28.120413260995054"><source w="4000" h="896">1851873385<url>1851873385.png</url></source><resource><id>1851873385</id><url>https://media.preziusercontent.com/media/6/9/2/4666f7276cc5b1dc930dedb69b1acc604acbf.png</url></resource><sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F6%2F9%2F2%2F4666f7276cc5b1dc930dedb69b1acc604acbf.png</sourceUrl><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="0_30863873" type="shape" x="-125554.63335104797" y="-87033.08490069142" r="0" s="18.55638892267082" class="poly3"><geom type="poly"><p x="-20" y="-20"/><p x="20" y="-20"/><p x="20" y="20"/><p x="-20" y="20"/><t>0</t><r>0</r></geom><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="1_30863873" type="shape" x="125198.35068373267" y="-86844.59383665331" r="0" s="36.370522288434806" class="poly3"><geom type="poly"><p x="-20" y="-20"/><p x="20" y="-20"/><p x="20" y="20"/><p x="-20" y="20"/><t>0</t><r>0</r></geom><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="3_30863873" type="shape" x="-125314.32431585356" y="87012.38543993054" r="0" s="13.254563516193436" class="poly3"><geom type="poly"><p x="-20" y="-20"/><p x="20" y="-20"/><p x="20" y="20"/><p x="-20" y="20"/><t>0</t><r>0</r></geom><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="4_30863873" type="shape" x="125438.65971892703" y="87200.8765039686" r="0" s="18.55638892267082" class="poly3"><geom type="poly"><p x="-20" y="-20"/><p x="20" y="-20"/><p x="20" y="20"/><p x="-20" y="20"/><t>0</t><r>0</r></geom><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="5_30863873" type="persistentgroup" x="0" y="0" r="0" s="294.0583936838525"><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="8" type="button" x="3310.9435428167462" y="-3872.2486785453693" r="0" s="76.57013435431188" class="invisible"><type>invisible</type><size><w>1064.8735675726869</w><h>600</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="3_24309637" type="button" x="-15231.354386741059" y="-16585.432186191687" r="0" s="3.564525160532266" class="circle"><type>circle</type><size><w>800</w><h>800</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="9" type="button" x="-10283.39209615151" y="12332.483637783658" r="0" s="12.112683119272008" class="roundrect"><type>roundrect</type><size><w>1254.2644026256494</w><h>800</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="38_24309637" type="image" x="-14678.011328966593" y="-16760.28702417395" r="0" s="0.6422933713742442"><source w="1273" h="1813">1855942261<url>1855942261.png</url></source><resource><id>1855942261</id><url>https://media.preziusercontent.com/media/0/4/7/e5ca1cf75a07c1363dccc034f50315043566c.png</url></resource><sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F0%2F4%2F7%2Fe5ca1cf75a07c1363dccc034f50315043566c.png</sourceUrl><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="39_24309637" type="image" x="-15369.965546821037" y="-15713.49254009663" r="0" s="0.43701955182804125"><source w="1273" h="1813">1855942564<url>1855942564.png</url></source><resource><id>1855942564</id><url>https://media.preziusercontent.com/media/f/8/2/aded6e56854fe294899827a8a6e77316a89cb.png</url></resource><sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2Ff%2F8%2F2%2Faded6e56854fe294899827a8a6e77316a89cb.png</sourceUrl><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="1_24309637" type="image" x="20747.188844524047" y="412.4556520923282" r="0" s="16.416736724961318"><source w="1920" h="2123">1874493880<url>1874493880.png</url></source><resource><id>1874493880</id><url>https://media.preziusercontent.com/media/2/6/2/804d90bef310293f8b4e6041dd1231980c25f.png</url></resource><sourceUrl>sign3.png</sourceUrl><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="10_24309637" type="text" x="-10252.85423212336" y="8974.655766496526" r="0" s="38.17930496823347" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[OVERVIEW]]></text></p><layout><layout-element role="title"/></layout></object><object id="11_24309637" type="text" x="-10239.714296778338" y="12303.96715504528" r="0" s="22.029266264164036" class="body"><height>165.5859375</height><width>603.8413254010717</width><p listType="bullet" indent="1"><text><![CDATA[INTRODUCTION]]></text></p><p listType="bullet" indent="1"><text><![CDATA[FEATURES]]></text></p><p listType="bullet" indent="1"><text><![CDATA[IMPLEMENTATION OF HCI ]]></text></p><p listType="bullet" indent="1"><text><![CDATA[COMPARISION]]></text></p><p listType="bullet" indent="1"><text><![CDATA[DISCUSSION]]></text></p><p listType="bullet" indent="1"><text><![CDATA[TESTING]]></text></p><layout><layout-element role="body"/></layout></object><object id="12_24309637" type="button" x="-6932.192110235907" y="3761.0041922390496" r="0" s="6.895626686230263" class="roundrect"><type>roundrect</type><size><w>1254.2644026256494</w><h>800</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="13_24309637" type="text" x="-6914.8072163969955" y="1867.9019330491933" r="0" s="21.73508805673249" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[INTRODUCTION]]></text></p><layout><layout-element role="title"/></layout></object><object id="14_24309637" type="text" x="-6897.510922416223" y="4164.902103545261" r="0" s="12.54103610516737" class="body"><height>248.37890625</height><width>603.8413254010717</width><p align="justify"><text><![CDATA[Our project entitled ‘Raktadaan’ is an interactive application program written using Android SDK that aims to help people when in need of blood urgently.]]></text></p><p align="justify"><text><![CDATA[]]></text></p><p align="justify"><text><![CDATA[The application contains user friendly interface for helping people find the matching blood donor during time of emergencies and provide them the service of calling or messaging the donor and post the call for help in the social media directly through our application.]]></text></p><layout><layout-element role="body"/></layout></object><object id="18_24309637" type="button" x="-4526.601933508873" y="-1326.2933793779043" r="0" s="3.6818230105207044" class="roundrect"><type>roundrect</type><size><w>1254.2644026256494</w><h>800</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="19_24309637" type="text" x="-4535.884353379323" y="-2347.590107589691" r="0" s="11.605144968588743" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[FEATURES]]></text></p><layout><layout-element role="title"/></layout></object><object id="20_24309637" type="text" x="-4523.335150984764" y="-1156.1363914241879" r="0" s="6.696110072196892" class="body"><height>248.37890625</height><width>603.8413254010717</width><p listType="bullet" indent="1"><text><![CDATA[Quickly search the nearby matching donor]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Authentication of the user account using SMS verification]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Retrieve current location through GPS and search blood accordingly or search in user defined location]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Directly call or message the matching donor]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Privacy protection by allowing you to hide your mobile number ]]></text></p><p><text><![CDATA[]]></text></p><layout><layout-element role="body"/></layout></object><object id="2_259561073" type="button" x="-5636.147527229793" y="-4204.512185662091" r="0" s="1.2380216810092295" class="roundrect"><type>roundrect</type><size><w>1802.028554060864</w><h>1151.981826049545</h></size></object><object id="22_24309637" type="text" x="-5638.722091619086" y="-4694.843416489994" r="0" s="5.647055826521463" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[FEATURES]]></text></p><layout><layout-element role="title"/></layout></object><object id="23_24309637" type="text" x="-5624.507934181278" y="-4144.629532621686" r="0" s="3.2583227095031178" class="body"><height>220.78125</height><width>603.8413254010717</width><p listType="bullet" indent="1"><text><![CDATA[Editable private profile]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Ability to post the social account]]></text></p><p listType="bullet" indent="1"><text><![CDATA[View and get direction to nearby hospital in a google map]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Selectable English and Nepali language application interface]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Access from any part of the country at any time]]></text></p><p><text><![CDATA[]]></text></p><layout><layout-element role="body"/></layout></object><object id="25_24309637" type="button" x="-7456.504580680036" y="-5592.4313180211775" r="0" s="1.2483433696028066" class="roundrect"><type>roundrect</type><size><w>1254.2644026256494</w><h>800</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="26_24309637" type="text" x="-7483.4619536555165" y="-5981.568207917782" r="0" s="3.9347914697203965" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[IMPLEMENTATION OF HCI]]></text></p><layout><layout-element role="title"/></layout></object><object id="27_24309637" type="text" x="-7480.3964876791315" y="-5484.002470086116" r="0" s="2.0639589254048216" class="body"><height>413.96484375</height><width>603.8413254010717</width><p align="justify"><text><![CDATA[The development of the application was done with the implementation of the design guidelines, principles and theories of Human Computer Interaction.]]></text></p><p align="justify"><text><![CDATA[]]></text></p><p align="justify"><text><![CDATA[Direct Manipulation techniques and User Centered Design is mainly focused to make the final product as effective and user interactive as possible. ]]></text></p><p align="justify"><text><![CDATA[]]></text></p><p align="justify"><text><![CDATA[Criteria fulfilled:]]></text></p><p align="justify"><text><![CDATA[Affordance]]></text></p><p align="justify"><text><![CDATA[Consistency]]></text></p><p align="justify"><text><![CDATA[Constraints]]></text></p><p align="justify"><text><![CDATA[Visibility]]></text></p><p align="justify"><text><![CDATA[Feedback]]></text></p><p><text><![CDATA[]]></text></p><layout><layout-element role="body"/></layout></object><object id="28_24309637" type="button" x="-13052.884459532948" y="-6349.003777389854" r="0" s="2.0816378338065946" class="roundrect"><type>roundrect</type><size><w>1254.2644026256494</w><h>800</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="29_24309637" type="text" x="-13047.636342951457" y="-6920.489657543959" r="0" s="6.5613444112860995" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[AFFORDANCE]]></text></p><layout><layout-element role="title"/></layout></object><object id="30_24309637" type="text" x="-13603.417658693405" y="-6305.693723282038" r="0" s="3.785862608221122" class="body"><height>220.78125</height><width>338.4413254010717</width><p align="justify"><text><![CDATA[As this application is targeted towards the native population of our country, this application includes setting to switch to Nepali language.]]></text></p><p align="justify" listType="bullet" indent="1"><text><![CDATA[Search bar has clear and simple constraints to search through the directory.]]></text></p><layout><layout-element role="body"/></layout></object><object id="32_24309637" type="button" x="-16179.738135821945" y="-6641.1433979992935" r="0" s="1.7024096049950292" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="33_24309637" type="text" x="-16184.03016200023" y="-7108.517230129488" r="0" s="5.366013033606176" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[CONSISTENCY]]></text></p><layout><layout-element role="title"/></layout></object><object id="34_24309637" type="text" x="-16177.611993224407" y="-6645.795474982086" r="0" s="3.096162436499026" class="body"><height>165.5859375</height><width>603.8413254010717</width><p><text><![CDATA[The whole application was designed in aconsistent layout. All layouts were created in a similar fashion, so that the user don't  get confused with all the different formats.]]></text></p><p listType="bullet" indent="1"><text><![CDATA[The icons, buttons, color, text and text-size used in the application are consistent.]]></text></p><layout><layout-element role="body"/></layout></object><object id="2_24309637" type="shape" x="20736.985451424698" y="-7554.304660805611" r="-3.3517056466417645e-15" s="66.02578749858408" class="line5"><geom type="line"><sp>-234.0175163417477 0</sp><ep>234.0175163417477 0</ep><t>8</t></geom><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="31_24309637" type="image" x="-15759.757186790932" y="-17292.783488723868" r="0" s="0.9318761919773229"><source w="1273" h="1813">1855941910<url>1855941910.png</url></source><resource><id>1855941910</id><url>https://media.preziusercontent.com/media/b/f/7/ee32ed28b452de19426cd728dc4b71003beeb.png</url></resource><sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2Fb%2Ff%2F7%2Fee32ed28b452de19426cd728dc4b71003beeb.png</sourceUrl><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="18" type="text" x="-15224.592916993823" y="-16146.546460078873" r="0" s="30.444498523177195" class="head"><height>55.1953125</height><width>103.01197126888044</width><p align="center"><text><![CDATA[THANK YOU]]></text></p><meta><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="9_24309637" type="text" x="20576.593266330958" y="-11643.945092958264" r="0" s="66.08328226897252" class="strong"><height>58.56</height><width>455.44617153882666</width><p align="center"><text color="0"><![CDATA[“Implementing HCI to Improve User Interface on 4th Smester's Android Project”]]></text></p></object><object id="15_24309637" type="text" x="21137.55553652158" y="-3634.2754135061323" r="0" s="50.421572668019955" class="head"><height>137.98828125</height><width>355.03722582655143</width><p align="center"><text color="0"><![CDATA[Presented by]]></text></p><p align="center"><text color="0"><![CDATA[ ]]></text><text color="0" weight="normal"><![CDATA[Kamalesh Kunwar (22)]]></text></p><p align="center"><text color="0" weight="normal"><![CDATA[Sunil Prajapati (37)]]></text></p><p align="center"><text color="0" weight="normal"><![CDATA[Bibash Shrestha (48)]]></text></p><p align="center"><text color="0" weight="normal"><![CDATA[Deepal Singh (55)]]></text></p><layout><layout-element role="title"/></layout></object><object id="4_24309637" type="button" x="20701.904123735898" y="-8199.127673461771" r="0" s="29.317275885966552" class="invisible"><type>invisible</type><size><w>1063.7757472510452</w><h>600</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="11_259561073" type="button" x="-16943.68801548255" y="-9259.126218835316" r="0" s="0.9598564614277727" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="12_259561073" type="text" x="-16946.10795545924" y="-9522.64199750348" r="0" s="3.025477691913968" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[CONSTRAINTS]]></text></p><layout><layout-element role="title"/></layout></object><object id="13_259561073" type="text" x="-17190.396563138882" y="-9264.321448494233" r="0" s="1.7744577399389303" class="body"><height>220.78125</height><width>296.4913254010717</width><p><text><![CDATA[The design process of the application need not include any sort of physical and cultural constraints.]]></text></p><p listType="bullet" indent="1"><text><![CDATA[The user is not allowed to enter the false information]]></text></p><p><text><![CDATA[]]></text></p><layout><layout-element role="body"/></layout></object><object id="17_259561073" type="button" x="-15885.286974507788" y="-11085.481460459505" r="0" s="0.9598876544943226" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="18_259561073" type="text" x="-15887.706993126803" y="-11349.005802767706" r="0" s="3.025576012788788" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[VISIBILITY]]></text></p><layout><layout-element role="title"/></layout></object><object id="19_259561073" type="text" x="-16141.904262588518" y="-11065.455580716429" r="0" s="1.7457420883813402" class="body"><height>220.78125</height><width>307.4913254010717</width><p align="justify"><text><![CDATA[This application includes the lighter tone of color red for not straining the eye.]]></text></p><p align="justify" listType="bullet" indent="1"><text><![CDATA[The application drawer is placed on the left side which clearly list the options of available operations.]]></text></p><layout><layout-element role="body"/></layout></object><object id="26_259561073" type="button" x="-13390.723698114938" y="-11569.676353511459" r="0" s="1.1196881989544651" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="27_259561073" type="text" x="-13393.546597520171" y="-11877.071802174873" r="2.522639623229058e-16" s="3.529269014657741" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[FEEDBACK]]></text></p><layout><layout-element role="title"/></layout></object><object id="28_259561073" type="text" x="-13628.248306443726" y="-11528.160999710708" r="2.1860153294548835e-16" s="2.036370408168711" class="body"><height>275.9765625</height><width>392.4839566304047</width><p align="justify"><text><![CDATA[In order to provide proper feedback to the user when any task is done, we have used sound which is triggered on clicking button to provide the user with necessary information regarding the current state of the system.]]></text></p><p align="justify" listType="bullet" indent="1"><text><![CDATA[Snackbar are displayed to indicate various situation such as no internet connection.]]></text></p><layout><layout-element role="body"/></layout></object><object id="29_259561073" type="button" x="-11357.612172431267" y="-11569.635787093124" r="0" s="0.9598395768913128" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="4_259561073" type="image" x="-11158.438600974287" y="-11509.072895242825" r="0" s="0.3129524137164594"><source w="1012" h="1800">4994058829<url>4994058829.png</url></source><resource><id>4994058829</id><url>https://media.preziusercontent.com/media/6/3/c/637b554154013e05ff717d63e8fe733ad74ba.png</url></resource><sourceUrl>Screenshot_20180723-012538.png</sourceUrl></object><object id="0_259561073" type="image" x="-11597.121062470242" y="-11509.072895242825" r="0" s="0.31295243763840414"><source w="1012" h="1800">4994058315<url>4994058315.png</url></source><resource><id>4994058315</id><url>https://media.preziusercontent.com/media/f/1/1/73f8c4cc0dc3ddf1eaa24c23d03120f5fc148.png</url></resource><sourceUrl>37617122_2056765671001481_3891541902649982976_n.png</sourceUrl></object><object id="30_259561073" type="text" x="-11360.032069839528" y="-11833.146930337196" r="0" s="3.0254244716769323" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[COMPARISON]]></text></p><layout><layout-element role="title"/></layout></object><object id="32_259561073" type="button" x="-10835.341285372067" y="-12326.630558188152" r="0" s="0.7612812863314138" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="3_259561073" type="image" x="-10678.76222877805" y="-12267.308734552387" r="0" s="0.26927485997967204"><source w="1012" h="1800">4994058749<url>4994058749.png</url></source><resource><id>4994058749</id><url>https://media.preziusercontent.com/media/c/8/1/8f0fdf30b828ad7f2d7b0559b91eaabbaec0c.png</url></resource><sourceUrl>Screenshot_20180723-005708.png</sourceUrl></object><object id="1_259561073" type="image" x="-11032.340119591056" y="-12267.308734552387" r="0" s="0.2692748436544008"><source w="1012" h="1800">4994058726<url>4994058726.png</url></source><resource><id>4994058726</id><url>https://media.preziusercontent.com/media/f/f/8/92de1a0e09a503651dc598888952a59f7b8c9.png</url></resource><sourceUrl>Screenshot_20180723-090114.png</sourceUrl></object><object id="33_259561073" type="text" x="-10837.260587988987" y="-12535.630173250098" r="0" s="2.3995666452473805" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[COMPARISON]]></text></p><layout><layout-element role="title"/></layout></object><object id="35_259561073" type="button" x="-10761.802546926578" y="-12995.841857517189" r="0" s="0.6200099008219414" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="6_259561073" type="image" x="-10935.071569069894" y="-12952.430830279296" r="0" s="0.20972972597562406"><source w="941" h="1800">4994058983<url>4994058983.jpg</url></source><resource><id>4994058983</id><url>https://media.preziusercontent.com/media/d/a/1/e2043e377e352a05c0fd8e8b9d702fb1a01c4.jpg</url></resource><sourceUrl>Screenshot_20180722-221113.jpg</sourceUrl></object><object id="5_259561073" type="image" x="-10631.881124988817" y="-12952.430830279296" r="0" s="0.20972972597562325"><source w="1012" h="1800">4994058971<url>4994058971.png</url></source><resource><id>4994058971</id><url>https://media.preziusercontent.com/media/6/1/2/eb3ef846abfd4281a70ab71192d954e3c2d23.png</url></resource><sourceUrl>Screenshot_20180723-013343.png</sourceUrl></object><object id="36_259561073" type="text" x="-10763.36568350504" y="-13166.057299474038" r="0" s="1.9542777478544142" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[COMPARISON]]></text></p><layout><layout-element role="title"/></layout></object><object id="39_259561073" type="button" x="-11018.388490975283" y="-13466.425696643613" r="0" s="0.3391631550983073" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="7_259561073" type="image" x="-11103.679047610129" y="-13441.803755798512" r="0" s="0.11429304045972785"><source w="1012" h="1800">4994059736<url>4994059736.png</url></source><resource><id>4994059736</id><url>https://media.preziusercontent.com/media/9/4/5/e0769c17f56efc917a9c071ec1e0da701fd28.png</url></resource><sourceUrl>Screenshot_20180723-084825.png</sourceUrl></object><object id="94_259561073" type="image" x="-10927.712577708704" y="-13441.803755798512" r="0" s="0.11150539327942181"><source w="810" h="1845">4994066602<url>4994066602.jpg</url></source><resource><id>4994066602</id><url>https://media.preziusercontent.com/media/b/4/c/9a0af0be24f6ba93916456e1ead1c461a9341.jpg</url></resource><sourceUrl>37669755_2056821534329228_580887587980312576_n.jpg</sourceUrl></object><object id="40_259561073" type="text" x="-11019.243571407223" y="-13559.538413495397" r="0" s="1.069045842690616" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[COMPARISON]]></text></p><layout><layout-element role="title"/></layout></object><object id="42_259561073" type="button" x="-11523.381217349788" y="-13630.784541265082" r="0" s="0.22611280878757078" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="43_259561073" type="text" x="-11524.29758662911" y="-13700.479515078225" r="0" s="0.7127099585548619" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[COMPARISON]]></text></p><layout><layout-element role="title"/></layout></object><object id="9_259561073" type="video" x="-11476.13058685536" y="-13615.475951922625" r="0" s="0.4981817893097399" delay="6952" onFocus="start" onLeave="pause"><source>4994069380<url>4994069380.mp4</url></source><resource><id>4994069380</id><url>https://media.preziusercontent.com/converted/8/8/9/4a5d05bdc884d6b3558167ed2e39facd9c5a7.mp4</url></resource></object><object id="10_259561073" type="video" x="-11573.702154667864" y="-13615.475951922625" r="0" s="0.4963846573054208" delay="1009.6666666666664" onFocus="start" onLeave="pause"><source>4994070142<url>4994070142.mp4</url></source><resource><id>4994070142</id><url>https://media.preziusercontent.com/converted/5/e/5/dfb2b9ab50c12eed82856925c2583d68b5a55.mp4</url></resource></object><object id="45_259561073" type="button" x="-12075.75667370526" y="-13679.718491572803" r="0" s="0.22604064529791848" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="46_259561073" type="text" x="-12076.326555573956" y="-13741.774933395083" r="0" s="0.7124824984742274" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[DISCUSSION]]></text></p><layout><layout-element role="title"/></layout></object><object id="47_259561073" type="text" x="-12075.47437111291" y="-13674.663016350005" r="0" s="0.4110988055048351" class="body"><height>193.18359375</height><width>603.8413254010717</width><p listType="bullet" indent="1"><text><![CDATA[Improved App Icon]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Improved theme with good color combination.]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Phone Number Verification for signup.]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Added Splash Screen]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Better Security / Privacy of the user]]></text></p><p listType="bullet" indent="1"><text><![CDATA[Gps tracks the user location and automatically fills the location box.]]></text></p><layout><layout-element role="body"/></layout></object><object id="49_259561073" type="button" x="-12934.079675312101" y="-13656.271163762656" r="0" s="0.22604064529791848" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="50_259561073" type="text" x="-12934.649557180797" y="-13718.327605584938" r="0" s="0.7124824984742274" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[TESTING]]></text></p><layout><layout-element role="title"/></layout></object><object id="51_259561073" type="text" x="-12933.797372719744" y="-13639.869361507914" r="0" s="0.4110988055048351" class="body"><height>248.37890625</height><width>603.8413254010717</width><p><text><![CDATA[After the compilation of all the modules of the app, we did the following kind of usability testing:]]></text></p><p listType="bullet" indent="1"><text><![CDATA["Can you break this" testing:]]></text></p><p align="justify"><text><![CDATA[        The purpose of this testing is to challenge our colleagues at college to find bugs and errors in the test. This test allows to improve performance anf efficiency of our product.]]></text></p><p indent="2"><text><![CDATA[]]></text></p><p align="justify" indent="3"><text><![CDATA[]]></text></p><layout><layout-element role="body"/></layout></object><object id="52_259561073" type="button" x="-13719.204099890265" y="-13592.709133244665" r="0" s="0.2616619548219499" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="53_259561073" type="text" x="-13719.863788344006" y="-13664.544930099306" r="0" s="0.8247612418619745" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[TESTING]]></text></p><layout><layout-element role="title"/></layout></object><object id="54_259561073" type="text" x="-13717.18506942015" y="-13574.901762772524" r="0" s="0.47588307373476746" class="body"><height>303.57421875</height><width>603.8413254010717</width><p align="justify" listType="bullet" indent="1"><text><![CDATA[Competitive Usability Testing:]]></text></p><p align="justify" indent="1"><text><![CDATA[This testing includes the testing of the previous and new version of the same product. This testing was conducted within ourselves with involvement of some friends.]]></text></p><p align="justify" listType="bullet" indent="1"><text><![CDATA[Survey:]]></text></p><p indent="1"><text><![CDATA[We had the opportunity to survey this application during the IT MEET 2018. This survey provided a chance to improve the application on the basis of their questionnaire, views and ideas.]]></text></p><p indent="1"><text><![CDATA[]]></text></p><layout><layout-element role="body"/></layout></object><object id="56_259561073" type="button" x="-14553.831145700793" y="-13592.709133244667" r="0" s="0.4068411908683026" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="57_259561073" type="text" x="-14554.856852461673" y="-13704.40195140466" r="0" s="1.2823677253709709" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[TESTING]]></text></p><layout><layout-element role="title"/></layout></object><object id="1_273151429" type="image" x="-14545.998765453005" y="-13540.241087300565" r="0" s="0.8449695353800608"><source w="291" h="238">4994066567<url>4994066567.PNG</url></source><resource><id>4994066567</id><url>https://media.preziusercontent.com/media/0/d/b/7b574c60ecef24dd9531d1538dded149d8cf7.PNG</url></resource><sourceUrl>2.PNG</sourceUrl></object><object id="58_259561073" type="text" x="-14556.604370650015" y="-13667.465061480218" r="0" s="0.7399197050410468" class="body"><height>27.59765625</height><width>603.8413254010717</width><p><text><![CDATA[Graph and Responses]]></text></p><layout><layout-element role="body"/></layout></object><object id="59_259561073" type="button" x="-15186.20117646935" y="-13839.148504763258" r="0" s="0.29307371991849046" class="roundrect"><type>roundrect</type><size><w>1409.7232192841757</w><h>853.7122762498088</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="60_259561073" type="text" x="-15186.620607536943" y="-13919.618736062212" r="0" s="0.9237714568079268" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[TESTING]]></text></p><layout><layout-element role="title"/></layout></object><object id="3_273151429" type="image" x="-15276.573454881389" y="-13813.779125014491" r="0" s="0.4789389639301455"><source w="292" h="269">4994066671<url>4994066671.PNG</url></source><resource><id>4994066671</id><url>https://media.preziusercontent.com/media/e/e/1/33a63af49d67d08fb0995c7674dac1b361ace.PNG</url></resource><sourceUrl>3.PNG</sourceUrl></object><object id="4_273151429" type="image" x="-15105.325397088023" y="-13813.779125014491" r="0" s="0.6020307537252814"><source w="289" h="214">4994066750<url>4994066750.PNG</url></source><resource><id>4994066750</id><url>https://media.preziusercontent.com/media/4/4/d/d53a1a410a6899e2e668485ff363d06240a36.PNG</url></resource><sourceUrl>4.PNG</sourceUrl></object><object id="61_259561073" type="text" x="-15185.142545190818" y="-13883.570128034275" r="0" s="0.533011468024063" class="body"><height>55.1953125</height><width>603.8413254010717</width><p><text><![CDATA[Graph and Response]]></text></p><p><text><![CDATA[]]></text></p><layout><layout-element role="body"/></layout></object><object id="63_259561073" type="button" x="-15256.946885356341" y="-14132.603793381097" r="0" s="0.2617296716931683" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="5_273151429" type="image" x="-15339.644339665245" y="-14108.35522038453" r="0" s="0.5089731665699061"><source w="288" h="232">4994066981<url>4994066981.PNG</url></source><resource><id>4994066981</id><url>https://media.preziusercontent.com/media/c/1/b/9a673458da67451a1827512c4ef003a2f93d0.PNG</url></resource><sourceUrl>5.PNG</sourceUrl></object><object id="6_273151429" type="image" x="-15172.11906573695" y="-14108.39850856901" r="0" s="0.5416594742326917"><source w="291" h="218">4994067014<url>4994067014.PNG</url></source><resource><id>4994067014</id><url>https://media.preziusercontent.com/media/3/e/d/61b6265fe8fe3e1182d367b059b4928a1c344.PNG</url></resource><sourceUrl>6.PNG</sourceUrl></object><object id="64_259561073" type="text" x="-15257.606744534329" y="-14204.458180998798" r="0" s="0.8249746861543974" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[TESTING]]></text></p><layout><layout-element role="title"/></layout></object><object id="66_259561073" type="button" x="-15355.531103368525" y="-14355.357601013691" r="0" s="0.19680639828090776" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="7_273151429" type="image" x="-15420.269176535592" y="-14348.00788738354" r="0" s="0.3407142461159648"><source w="293" h="267">4994067122<url>4994067122.PNG</url></source><resource><id>4994067122</id><url>https://media.preziusercontent.com/media/5/6/0/add848bea3eaa0636198d2247ba443754cf24.PNG</url></resource><sourceUrl>8.PNG</sourceUrl></object><object id="8_273151429" type="image" x="-15294.383233710887" y="-14348.083245625283" r="0" s="0.38546908352950493"><source w="291" h="236">4994067142<url>4994067142.PNG</url></source><resource><id>4994067142</id><url>https://media.preziusercontent.com/media/5/9/a/2090c8e3dd96ecacf497ae540c59d51427870.PNG</url></resource><sourceUrl>9.PNG</sourceUrl></object><object id="67_259561073" type="text" x="-15356.027281380557" y="-14409.388170556069" r="0" s="0.6203358434855183" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[TESTING]]></text></p><layout><layout-element role="title"/></layout></object><object id="76_259561073" type="button" x="-15371.324257902139" y="-14555.523386057275" r="0" s="0.13840182204252183" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="77_259561073" type="text" x="-15371.67318934707" y="-14593.5197588174" r="0" s="0.4362440030742091" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[CONCLUSION]]></text></p><layout><layout-element role="title"/></layout></object><object id="0_273151429" type="text" x="-15369.90483210971" y="-14553.278072886584" r="0" s="0.25171058791831113" class="body"><height>193.18359375</height><width>605.7871587446957</width><p align="justify"><text><![CDATA[So, by implementing HCI the application user interface and functionality is improved and have helped to make the application more interactive.]]></text></p><p align="justify"><text><![CDATA[Thus, we can say that HCI play an important role in android development too. The concept of usability testing plays a vital role in designing our app and finding bugs.]]></text></p></object><object id="8_259561073" type="image" x="-12391.242806711736" y="-6239.688775154072" r="0" s="0.6355648581857902"><source w="1012" h="1800">4994060150<url>4994060150.png</url></source><resource><id>4994060150</id><url>https://media.preziusercontent.com/media/b/e/a/a90a9c4d61761eca68866349b308cecfa72b6.png</url></resource><sourceUrl>Screenshot_20180722-182139.png</sourceUrl></object><object id="14_259561073" type="button" x="-16751.9213582468" y="-8123.936869094851" r="0" s="1.1197189540083103" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="34_259561073" type="image" x="-16782.515989280066" y="-8040.281675035259" r="0" s="0.3725912923138302"><source w="1012" h="1800">4994061014<url>4994061014.png</url></source><resource><id>4994061014</id><url>https://media.preziusercontent.com/media/4/4/b/dc09536666abfb746d066c4f1908dfe9335eb.png</url></resource><sourceUrl>Screenshot_20180723-075507.png</sourceUrl></object><object id="48_259561073" type="image" x="-17211.288862275618" y="-8040.281675035259" r="0" s="0.35578027060945805"><source w="1012" h="1800">4994061048<url>4994061048.png</url></source><resource><id>4994061048</id><url>https://media.preziusercontent.com/media/e/a/2/a14731753783220f9fe2f42ffbfc39083fcc3.png</url></resource><sourceUrl>Screenshot_20180723-020824.png</sourceUrl></object><object id="15_259561073" type="text" x="-16754.74433519008" y="-8431.34076114773" r="0" s="3.5293659549119" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[CONSISTENCY]]></text></p><layout><layout-element role="title"/></layout></object><object id="55_259561073" type="image" x="-16335.661561332849" y="-8040.121661274628" r="0" s="0.3557802480965878"><source w="1012" h="1800">4994061562<url>4994061562.png</url></source><resource><id>4994061562</id><url>https://media.preziusercontent.com/media/e/a/3/d28003ab6840475d5352656d1b82962467cf4.png</url></resource><sourceUrl>Screenshot_20180723-013343.png</sourceUrl></object><object id="62_259561073" type="image" x="-16656.893261800844" y="-9191.537715097305" r="0" s="0.3015008483171938"><source w="1012" h="1800">4994062695<url>4994062695.png</url></source><resource><id>4994062695</id><url>https://media.preziusercontent.com/media/7/1/7/2fb9794bf369f5550615d20a475e9a1235679.png</url></resource><sourceUrl>37619957_2056796950998353_6159887163015036928_n.png</sourceUrl></object><object id="69_259561073" type="image" x="-15632.791924947525" y="-11021.950955316443" r="0" s="0.30543732313149563"><source w="1012" h="1800">4994064033<url>4994064033.png</url></source><resource><id>4994064033</id><url>https://media.preziusercontent.com/media/d/a/e/a7d30602a82d68bb69f7c1c39690eb911c8a2.png</url></resource><sourceUrl>Screenshot_20180723-012538.png</sourceUrl></object><object id="78_259561073" type="button" x="-16943.68801548255" y="-10120.301360832605" r="0" s="0.6200638988451547" class="roundrect"><type>roundrect</type><size><w>1378.7786009114584</w><h>837.8404104591737</h></size><meta><notModifiedByUser>from-template</notModifiedByUser><parentTemplate>the-road-ahead2</parentTemplate></meta></object><object id="93_259561073" type="image" x="-16685.12768959787" y="-10072.078323324562" r="0" s="0.2051724265127458"><source w="1012" h="1800">4994066092<url>4994066092.png</url></source><resource><id>4994066092</id><url>https://media.preziusercontent.com/media/3/b/5/cab441d90c63a6ebdab7f5d41261091b6a1e0.png</url></resource><sourceUrl>37631633_2056814030996645_7426576140770213888_n.png</sourceUrl></object><object id="79_259561073" type="text" x="-16956.84762356374" y="-10326.482983499394" r="0" s="1.9544479501932066" class="strong"><height>29.28</height><width>355.03722582655143</width><p align="center"><text><![CDATA[CONSTRAINTS]]></text></p><layout><layout-element role="title"/></layout></object><object id="92_259561073" type="image" x="-17200.560102172603" y="-10072.078323324562" r="0" s="0.28852375327847646"><source w="720" h="1280">4994065772<url>4994065772.png</url></source><resource><id>4994065772</id><url>https://media.preziusercontent.com/media/9/7/b/51db306379b4f49e2529ac808b1021e1fb0b2.png</url></resource><sourceUrl>37664897_1045942402241289_6498516880146300928_n.png</sourceUrl></object><object id="91_259561073" type="image" x="-16943.03869271539" y="-10072.078323324562" r="0" s="0.20517244677580163"><source w="1012" h="1800">4994065757<url>4994065757.png</url></source><resource><id>4994065757</id><url>https://media.preziusercontent.com/media/e/7/2/1476163ff220234bf76a23bf569cf905e6b8d.png</url></resource><sourceUrl>37652034_2056817380996310_7323320982330933248_n.png</sourceUrl></object><object id="80_259561073" type="text" x="-16965.072378614477" y="-10266.139254337619" r="0" s="1.1462934603011872" class="body"><height>55.1953125</height><width>552.6663610919196</width><p listType="bullet" indent="1"><text><![CDATA[Only authentic user is allowed to sign up]]></text></p><p><text><![CDATA[]]></text></p><layout><layout-element role="body"/></layout></object><object id="82_259561073" type="image" x="-12960.277926175291" y="-11511.970481836684" r="0" s="0.3472311755833337"><source w="1012" h="1800">4994064967<url>4994064967.png</url></source><resource><id>4994064967</id><url>https://media.preziusercontent.com/media/7/c/9/2b7f653e18b75ad34cb120fa62a1fee18aa08.png</url></resource><sourceUrl>37685211_2056812517663463_4852421121506541568_n.png</sourceUrl></object><object id="9_273151429" type="text" x="-15327.934885764074" y="-14181.81577672642" r="0" s="0.4328818447759557" class="body"><height>27.59765625</height><width>277.907251190939</width><p><text><![CDATA[Graph and Responses]]></text></p></object></zui-table><path><s><eagle o="8"/></s><s><eagle o="4_24309637"/></s><s><eagle o="9"/></s><s><eagle o="12_24309637"/></s><s><eagle o="18_24309637"/></s><s><eagle o="2_259561073"/></s><s><eagle o="25_24309637"/></s><s><eagle o="28_24309637"/></s><s><eagle o="32_24309637"/></s><s><eagle o="14_259561073"/></s><s><eagle o="11_259561073"/></s><s><eagle o="78_259561073"/></s><s><eagle o="17_259561073"/></s><s><eagle o="26_259561073"/></s><s><eagle o="29_259561073"/></s><s><eagle o="32_259561073"/></s><s><eagle o="35_259561073"/></s><s><eagle o="39_259561073"/></s><s><eagle o="42_259561073"/></s><s><eagle o="45_259561073"/></s><s><eagle o="49_259561073"/></s><s><eagle o="52_259561073"/></s><s><eagle o="56_259561073"/></s><s><eagle o="59_259561073"/></s><s><eagle o="63_259561073"/></s><s><eagle o="66_259561073"/></s><s><eagle o="76_259561073"/></s><s><eagle o="3_24309637"/></s><s><eagle o="8"/></s></path><style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arsenal-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arsenal;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arsenal-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arsenal;
+}
+
+@font-face
+{
+	src: url('Arsenal-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arsenal;
+}
+
+@font-face
+{
+	src: url('Arsenal-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arsenal;
+}
+
+.line1
+{
+	color: #221d0a;
+	gradEndColor: #221d0a;
+	gradStartColor: #221d0a;
+}
+
+.line2
+{
+	color: #617059;
+	gradEndColor: #617059;
+	gradStartColor: #617059;
+}
+
+.line3
+{
+	color: #f8c93d;
+	gradEndColor: #f8c93d;
+	gradStartColor: #f8c93d;
+}
+
+.line4
+{
+	color: #c2c23c;
+	gradEndColor: #c2c23c;
+	gradStartColor: #c2c23c;
+}
+
+.line5
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly1
+{
+	color: #a5bec3;
+	gradEndColor: #221d0a;
+	gradStartColor: #221d0a;
+}
+
+.poly2
+{
+	color: #a5bec3;
+	gradEndColor: #617059;
+	gradStartColor: #617059;
+}
+
+.poly3
+{
+	color: #a5bec3;
+	gradEndColor: #f8c93d;
+	gradStartColor: #f8c93d;
+}
+
+.poly4
+{
+	color: #a5bec3;
+	gradEndColor: #c2c23c;
+	gradStartColor: #c2c23c;
+}
+
+.poly5
+{
+	color: #a5bec3;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+Background
+{
+	gradEnd: #979588;
+	gradStart: #b3e8ff;
+}
+
+Grid
+{
+	color: #7d9093;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #6c665e;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #6c665e;
+	gradStartAlpha: 1;
+	gradStartColor: #6c665e;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 0.8;
+	gradEndColor: #f8c93d;
+	gradStartAlpha: 0.8;
+	gradStartColor: #f8c93d;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndAlpha: 0.7;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.7;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 10;
+	thickness: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #141414;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #ddd;
+	background-padding: 6;
+}
+
+ZLabel.head
+{
+	color: #fff;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: .7;
+	background-color: #f8c93d;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #ff5650;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #fff;
+	background-padding: 6;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: 0.6;
+	color: #fe3601;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+arrow-line.style1
+{
+	color: #ffedd5;
+	gradEndColor: #221d0a;
+	gradStartColor: #221d0a;
+}
+
+arrow-line.style2
+{
+	color: #ffedd5;
+	gradEndColor: #617059;
+	gradStartColor: #617059;
+}
+
+arrow-line.style3
+{
+	color: #ffedd5;
+	gradEndColor: #f8c93d;
+	gradStartColor: #f8c93d;
+}
+
+arrow-line.style4
+{
+	color: #ffedd5;
+	gradEndColor: #c2c23c;
+	gradStartColor: #c2c23c;
+}
+
+arrow-line.style5
+{
+	color: #ffedd5;
+	gradEndColor: #9aa587;
+	gradStartColor: #9aa587;
+}
+
+]]></style><hash>5d83d77e</hash><config>TDKPF5Uwqitn5gAbC6UAEeqfEvmfRRx9XQ==</config></zuiprezi>
